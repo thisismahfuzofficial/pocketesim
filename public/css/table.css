@@ -1,0 +1,20 @@
+table{
+    width: 100%;
+}
+
+table th{
+    font-size: 18px;
+}
+table th, table td{
+    font-size: 14px !important;
+    text-align: left;
+    padding: 20px;
+}
+
+table td{
+    font-size: 18px;
+    font-weight: 400;
+}
+table tr:nth-child(even){
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(207, 27, 207, 0.442) 100%);
+}

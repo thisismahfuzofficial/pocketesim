@@ -1,0 +1,15 @@
+<svg width="240" height="255" viewBox="0 0 240 255" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon" style="mix-blend-mode:luminosity">
+<g clip-path="url(#clip0_31_102994)">
+<path id="Vector" d="M45.9523 105.126H-28.3125V181.711H45.9523V105.126Z" fill="#03286B"/>
+<path id="Vector_2" d="M196.679 105.126H122.414V181.711H196.679V105.126Z" fill="#05B6FE"/>
+<path id="Vector_3" d="M-28.3125 105.126L48.5139 30H122.414V105.126H-28.3125Z" fill="#670FF2"/>
+<path id="Vector_4" d="M196.678 181.711L119.852 256.837H45.9519V181.711H196.678Z" fill="#3D69EE"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_31_102994">
+<path d="M0 0H240V255H32C14.3269 255 0 240.673 0 223V0Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>
